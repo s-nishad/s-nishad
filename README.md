@@ -12,12 +12,12 @@
 - 🌱 I’m currently learning different Programming Language specially C & C++.
 - 💞️ I’m looking to collaborate share my knowledge also want to learn from someone
 - ✉️ You can shoot me an [EMAIL](mailto:shohanurnishad@gmail.com) I'll try to respond as soon as I can.
-- 📄 Please have a look at my [PORTFOLIO](nishadsplanet.ml) for more details about me.
+- 📄 Please have a look at my [PORTFOLIO](http://nishadsplanet.ml) for more details about me.
 
 <img alt="Coding" src="/assets/Coding.gif" align="right"/>
 
 <p align="left">
-<a href="https://github.com/s-nishad">
+<a href="https://raw.githubusercontent.com/s-nishad/s-nishad/main/assets/back.jpg">
   <img height="185em" src="/assets/back.jpg"/>
 </a>
 </p>
