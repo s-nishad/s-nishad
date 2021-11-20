@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning different Programming Language specially C & C++.
 - 💞️ I’m looking to collaborate share my knowledge also want to learn from someone
 - ✉️ You can shoot me an [EMAIL](mailto:shohanurnishad@gmail.com) I'll try to respond as soon as I can.
-- 📄 Please have a look at my [PORTFOLIO](http://nishadsplanet.ml) for more details about me.
+- 📄 Please have a look at my [PORTFOLIO](http://nishadsplanet.cf) for more details about me.
 
 <img alt="Coding" src="/assets/Coding.gif" align="right"/>
 
