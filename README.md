@@ -13,6 +13,8 @@
 - 💞️ I’m looking to collaborate share my knowledge also want to learn from someone
 - ✉️ You can shoot me an [EMAIL](mailto:shohanurnishad@gmail.com) I'll try to respond as soon as I can.
 
+</br></br>
+
 <img alt="Coding" src="/assets/Coding.gif" align="right"/>
 
 <p align="left">
