@@ -32,6 +32,7 @@ I'm currently focused on mastering Python & Django and exploring advanced topics
 Feel free to explore my repositories and projects. Let's connect and learn together!
 
 Happy coding! 🚀
+
 ![Profile Views](https://komarev.com/ghpvc/?username=s-nishad&color=blue)
 
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white
