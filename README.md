@@ -1,42 +1,42 @@
-![Shohanur Nishad](/assets/banner.jpg)
+# Hi there! 👋
 
-<h2>🤙 Hi there! I'm Shohanur Nishad</h2>
+I'm **MD SHOHANUR ISLAM NISHAD**, a Computer Science and Engineering student at ***Begum Rokeya University, Rangpur.*** Welcome to my GitHub profile!
 
-<!-- ## 👋 &nbsp;Hey there! I'm Shohanur Nishad -->
+## About Me
 
-### 🤗‍💻 &nbsp;About Me
+- 🌱 I’m currently studying Computer Science and Engineering.
+- 💻 I’m interested in Programming.
+- 🚀 I’m currently learning different Programming Languages, especially C & C++.
+- 👨‍💻 I know C, C++, JavaScript, Python, Database: MySQL, MongoDB, Framework: Django, etc.
+- 🤝 I’m looking to collaborate and share my knowledge, also eager to learn from others.
+- 📧 You can reach me via [Email](mailto:shohanurnishad@gmail.com). I'll try to respond as soon as I can.
 
-- 👋 Full Name MD SHOHANUR ISLAM NISHAD
-- 🎓 I'm currently studying Computer Science and Engineering at Begum Rokeya University, Rangpur.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning different Programming Language specially C & C++.
-- 💞️ I’m looking to collaborate share my knowledge also want to learn from someone
-- ✉️ You can shoot me an [EMAIL](mailto:shohanurnishad@gmail.com) I'll try to respond as soon as I can.
+## 🚀 Skills and Tools
 
-</br></br>
+- Programming Languages: C, C++, JavaScript, Python
+- Databases: MySQL, MongoDB, SQLite
+- Frameworks: Django
 
-<img alt="Coding" src="/assets/Coding.gif" align="right"/>
+## 🌱 What I'm Currently Learning
 
-<p align="left">
-<a href="https://raw.githubusercontent.com/s-nishad/s-nishad/main/assets/back.jpg">
-  <img height="185em" src="/assets/back.jpg"/>
-</a>
-</p>
+I'm currently focused on mastering Python & Django and exploring advanced topics in programming.
 
-</br></br>
+## 📈 Learning Progress
 
-### 🤝🏻 &nbsp;Connect with Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-nishad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
+## 🌐 Connect with Me
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url] [![Instagram][instagram-shield]][instagram-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
+Feel free to explore my repositories and projects. Let's connect and learn together!
 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/ShohanurIslamNishad
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/nishad.shohanur
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ShohanurNishad
+Happy coding! 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=s-nishad&color=blue)
+
+[facebook-shield]: https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white
+[facebook-url]: https://www.facebook.com/shohanurislam.nishad
+[instagram-shield]: https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/nishad.shohanur
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/ShohanurNishad
