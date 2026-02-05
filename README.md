@@ -1,32 +1,34 @@
 # Hi there! 👋
 
-I'm **MD SHOHANUR ISLAM NISHAD**, a Computer Science and Engineering student at ***Begum Rokeya University, Rangpur.*** Welcome to my GitHub profile!
+I'm **MD SHOHANUR ISLAM NISHAD**
+
+👨‍💻 **Backend Software Engineer (Python | Django | FastAPI | AI)**  
+🎓 B.Sc. (Engg.) in Computer Science & Engineering — *Begum Rokeya University, Rangpur*
+
+I build scalable backend systems, clean APIs, and data-driven applications using Python.  
+Focused on reliability, performance, and real-world problem solving.
 
 ## About Me
 
-- 🌱 I’m currently studying Computer Science and Engineering.
-- 💻 I’m interested in Programming.
-- 🚀 I’m currently learning different Programming Languages, especially C & C++.
-- 👨‍💻 I know C, C++, JavaScript, Python, Database: MySQL, MongoDB, Framework: Django, etc.
-- 🤝 I’m looking to collaborate and share my knowledge, also eager to learn from others.
-- 📧 You can reach me via [Email](mailto:shohanurnishad@gmail.com). I'll try to respond as soon as I can.
+- 🌱 Backend-focused engineer working with **Python, Django, FastAPI**
+- 💻 Exploring **AI-powered backend solutions**
+- 🚀 Strong interest in **system design, APIs, and databases**
+- 👨‍💻 Comfortable with **Docker, Git, Linux**
+- 🤝 Open to collaboration, discussions, and knowledge sharing
+- 📧 Reach me via [Email](mailto:shohanurnishad@gmail.com)
 
 ## 🚀 Skills and Tools
 
 - Programming Languages: C, C++, JavaScript, Python
-- Databases: MySQL, MongoDB, SQLite
-- Frameworks: Django
+- Databases: PostgreSQL, MySQL, MongoDB, SQLite
+- Frameworks: Django, DRF, FastAPI
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently focused on mastering Python & Django and exploring advanced topics in programming.
-
-## 📈 Learning Progress
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-nishad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm currently focused on writing clean, maintainable backend code, improving API design and performance, and learning advanced system design and backend security.
 
 ## 🌐 Connect with Me
-
+[![Website][website-shield]][website-url]
 [![Facebook][facebook-shield]][facebook-url] [![Instagram][instagram-shield]][instagram-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Feel free to explore my repositories and projects. Let's connect and learn together!
@@ -41,3 +43,5 @@ Happy coding! 🚀
 [instagram-url]: https://www.instagram.com/nishad.shohanur
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/ShohanurNishad
+[website-shield]: https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white
+[website-url]: https://s-nishad.github.io/
